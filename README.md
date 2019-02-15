@@ -8,4 +8,4 @@ Respuesta: El principio de responsibilidad única, consiste en, organizar las cl
 
 2. Qué características tiene, según su opinión, un “buen” código o código limpio?
 
-Respuesta: En mi opinión, un buen código, debe de ser sencillo de leer, en caso de tener complicaciones para ser leído, debe de tener comentarios para su mejor comprensión y debe de ser flexible a solucionar cambios o bugs
+Respuesta: En mi opinión, un buen código, debe de ser sencillo de leer, en caso de tener complicaciones para ser leído, debe de tener comentarios para su mejor comprensión y debe de ser flexible a solucionar cambios o bugs.
